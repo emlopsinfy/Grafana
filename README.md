@@ -40,6 +40,8 @@ We can use it to scrape different systems and collect server or application metr
 
 ##### How it works
 
+![Create Jobs](https://github.com/emlopsinfy/Grafana/blob/96c12b740dab388cac4af5871cea3232ea2673c1/Images/Grafana%20Architecture.PNG)
+
 https://www.youtube.com/watch?v=9TJx7QTrTyo&t=558s
 
 Not followed after this.
@@ -53,6 +55,8 @@ In DevOps now there are several phases such as continuous development continuous
 So Grafana for continuous monitoring.
 
 Monitoring tool that will help you visualize your real-time data in an application.
+
+![Create Jobs](https://github.com/emlopsinfy/Grafana/blob/96c12b740dab388cac4af5871cea3232ea2673c1/Images/DevOps%20LifeCycle.PNG)
 
 ##### Why continuous monitoring ?
 
